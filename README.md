@@ -10,7 +10,7 @@ A simple and elegant calculator application built using **React** and **styled-c
 
 ![Calculator Screenshot](![image](https://github.com/user-attachments/assets/f226f9b5-be14-455b-a386-55d0273d80d5)
 )  
-*(Add a screenshot of your calculator here)*
+
 
 ## 📚 Table of Contents
 
